@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/chat_app_frontend/static/css/main.b364870a.chunk.css",
+    "main.js": "/chat_app_frontend/static/js/main.55561b09.chunk.js",
+    "main.js.map": "/chat_app_frontend/static/js/main.55561b09.chunk.js.map",
+    "runtime-main.js": "/chat_app_frontend/static/js/runtime-main.88d15f22.js",
+    "runtime-main.js.map": "/chat_app_frontend/static/js/runtime-main.88d15f22.js.map",
+    "static/css/2.664f7800.chunk.css": "/chat_app_frontend/static/css/2.664f7800.chunk.css",
+    "static/js/2.c921a3bd.chunk.js": "/chat_app_frontend/static/js/2.c921a3bd.chunk.js",
+    "static/js/2.c921a3bd.chunk.js.map": "/chat_app_frontend/static/js/2.c921a3bd.chunk.js.map",
+    "index.html": "/chat_app_frontend/index.html",
+    "precache-manifest.54ae09bb9321b7d238dcd7ccf0a1d6e7.js": "/chat_app_frontend/precache-manifest.54ae09bb9321b7d238dcd7ccf0a1d6e7.js",
+    "service-worker.js": "/chat_app_frontend/service-worker.js",
+    "static/css/2.664f7800.chunk.css.map": "/chat_app_frontend/static/css/2.664f7800.chunk.css.map",
+    "static/css/main.b364870a.chunk.css.map": "/chat_app_frontend/static/css/main.b364870a.chunk.css.map",
+    "static/js/2.c921a3bd.chunk.js.LICENSE.txt": "/chat_app_frontend/static/js/2.c921a3bd.chunk.js.LICENSE.txt",
+    "static/media/download.jfif": "/chat_app_frontend/static/media/download.8e8fe54a.jfif",
+    "static/media/App.css": "/chat_app_frontend/static/media/sea.03b27070.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88d15f22.js",
+    "static/css/2.664f7800.chunk.css",
+    "static/js/2.c921a3bd.chunk.js",
+    "static/css/main.b364870a.chunk.css",
+    "static/js/main.55561b09.chunk.js"
+  ]
+}
