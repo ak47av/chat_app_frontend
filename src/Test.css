@@ -1,0 +1,105 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+  
+  } 
+  li{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size:16px;
+    
+    text-decoration: none;
+  }
+  
+  header {
+  display:flex;
+  justify-content: flex-end;
+  padding:30px 10%;
+  align-items: center;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  }
+  .logo{
+    cursor:pointer;
+  }
+  .nav-title{
+    cursor:pointer;
+    margin-right: auto;
+    color:white;
+  }
+  
+  .nav-link{
+    list-style: none;
+  }
+  .nav-link li {
+    display:inline-block;
+    padding-right:15px;
+    font-size: 20px;
+    color:white;
+  }
+  .nav-link li:hover{
+    color:#eee;
+  }
+  .nav-button {
+    padding:15px 25px;
+    background-color: rgb(121, 207, 186) ;
+    color:black;
+    border:none;
+    border-radius: 9px;
+    cursor: pointer;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size:16px;
+    
+    text-decoration: none;
+  }
+  .nav-link button:hover{
+    color: rbga(0,136,169,0.6);
+  }
+  
+  
+  body{
+    background-image: linear-gradient(to right, #341244, #53054f);
+  }
+  .note {
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    width: 240px;
+    margin: 16px;
+    float: left;
+  }
+  .note h1 {
+    font-size: 1.1em;
+    margin-bottom: 6px;
+  }
+  .note p {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  
+  .note button {
+    position: relative;
+    float: right;
+    margin-right: 10px;
+    color: #eee;
+    border: none;
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+    outline: none;
+  }
+  .eventmain{
+    display: flex;
+   }
+   .caldiv{
+    width:30%;
+    background: rbga(255,255,255,0.08);
+   }
+   
+   .eventdiv{
+     width:70%;
+   }
