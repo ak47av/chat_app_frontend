@@ -5,7 +5,7 @@ const app = express();
 const cors = require('cors');
 app.use(cors());
 
-const publicPath = path.join(__dirname, '..', 'public');
+const publicPath = path.join(__dirname, 'public');
 
 app.use(express.static(publicPath));
 app.get('*', (req, res) => {
